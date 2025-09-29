@@ -1,18 +1,17 @@
-## Getting Started
+# Bank Account Simulation (Java OOP)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Objective
+Simulate real-world bank operations (deposit, withdrawal, transfer, and transaction history) using Java Object-Oriented Programming.
 
-## Folder Structure
+## 🛠 Tools
+- Java (JDK 17+)
+- VS Code
+- Terminal
 
-The workspace contains two folders by default, where:
+## 🚀 Features
+- Create bank accounts with unique account numbers.
+- Deposit and withdraw money.
+- Transfer funds between accounts.
+- View account statements with transaction history.
+- Console-based interactive menu.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
